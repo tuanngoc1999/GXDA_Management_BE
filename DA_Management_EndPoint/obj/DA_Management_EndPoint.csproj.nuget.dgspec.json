@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/DA_Management_EndPoint.csproj": {}
+  },
+  "projects": {
+    "/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/DA_Management_EndPoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/DA_Management_EndPoint.csproj",
+        "projectName": "DA_Management_EndPoint",
+        "projectPath": "/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/DA_Management_EndPoint.csproj",
+        "packagesPath": "/Users/maituan/.nuget/packages/",
+        "outputPath": "/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/maituan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

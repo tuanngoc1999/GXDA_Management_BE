@@ -1,0 +1,7 @@
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.csproj.AssemblyReference.cache
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.AssemblyInfoInputs.cache
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.AssemblyInfo.cs
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.csproj.CoreCompileInputs.cache
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/maituan/Projects/DA_Management_EndPoint/DA_Management_EndPoint/obj/Debug/net7.0/DA_Management_EndPoint.MvcApplicationPartsAssemblyInfo.cache
