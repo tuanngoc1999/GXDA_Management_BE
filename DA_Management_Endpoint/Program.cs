@@ -97,7 +97,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(options =>
     {
         options.SwaggerEndpoint("/swagger/v1/swagger.json", "DA Management V1");
-        options.RoutePrefix = ""; // Swagger UI hiển thị tại root
+        options.RoutePrefix = "swagger"; // Swagger UI hiển thị tại root
     });
 }
 app.UseStaticFiles();
