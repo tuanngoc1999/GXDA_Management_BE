@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/DA_Management_Endpoint/obj
+/DA_Management_Endpoint/bin/Debug/net7.0
